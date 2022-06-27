@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "firstname": "Priyanshu",
+      "lastname": "Mishra",
+      "email": "zee.suniti@gmail.com",
+      "phone": "+917844821064",
+      "website": "compunnel.com",
+      "id": 1
+    },
+    {
+      "firstname": "Aniket",
+      "lastname": "pandey",
+      "email": "aniket@gmail.com",
+      "phone": "+917844821064",
+      "website": "compunnel.com",
+      "id": 2
+    },
+    {
+      "firstname": "Animesh",
+      "lastname": "Yadav",
+      "email": "animesh@gmail.com",
+      "phone": "8097098-09-09",
+      "website": "ndjknsjncjkn",
+      "id": 3
+    },
+    {
+      "firstname": "saksham",
+      "lastname": "gupta",
+      "email": "zee.suniti@gmail.com",
+      "phone": "8318798816",
+      "website": "compunnel.com",
+      "id": 4
+    },
+    {
+      "firstname": "Prem",
+      "lastname": "Kumar",
+      "email": "prem@gmail.com",
+      "phone": "8675744987",
+      "website": "compunnel.com",
+      "id": 5
+    },
+    {
+      "firstname": "Pragya ",
+      "lastname": "Upadhyay",
+      "email": "pragya@gmail.com",
+      "phone": "7834908990",
+      "website": "compunnel.com",
+      "id": 6
+    }
+  ]
+}
